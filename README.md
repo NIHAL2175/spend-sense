@@ -59,23 +59,6 @@ SpendSense is a secure and user-friendly personal expense tracker web applicatio
 
 ---
 
-## 📁 Project Structure
-
-
-SpendSense/
-│
-├── Controllers/ # Handles request logic
-├── Models/ # Data models & entities
-├── Views/ # Razor UI views
-├── wwwroot/ # Static files (CSS, JS, images)
-├── Data/ # Database context & migrations
-├── Services/ # Business logic
-├── appsettings.json # Configuration
-└── Program.cs # Entry point
-
-
----
-
 ## ⚙️ Setup & Installation
 
 ### 🔹 Prerequisites
